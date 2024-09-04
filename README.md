@@ -1,5 +1,5 @@
 Mapty // Map Your Workouts
-Overview:
+Overview````
 Mapty is a web application designed to help users track and visualize their workouts on a map. This project was built using HTML, CSS, and JavaScript, and utilizes the Leaflet library to create an interactive map.
 
 Functionalities
